@@ -15,3 +15,7 @@ body{
 .header h3{
   color:gray;
 }
+
+.img{
+  border: 1px solid #e4f9f5;
+}
